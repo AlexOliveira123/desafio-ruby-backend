@@ -1,0 +1,17 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: backend_challenge_development
+  pool: 5
+  hostname: localhost
+  username: postgres
+  password:
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: backend_challenge_test
+  pool: 5
+  hostname: localhost
+  username: postgres
+  password:

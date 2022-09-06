@@ -1,0 +1,2 @@
+class CardHolder < ApplicationRecord
+end
